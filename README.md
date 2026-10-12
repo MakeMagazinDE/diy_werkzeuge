@@ -4,18 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Selbstgebaute Werkzeuge
 
-## Erklärende Unterzeile (optional)
+**Wer kreativ mit recyceltem Material arbeitet und an die Grenzen gängiger Werkzeuge stößt, braucht eigene Lösungen. Diese können besonders wiederkehrende Aufgaben vereinfachen und sorgen gleichzeitig für einheitliche Ergebnisse.**
 
-**Vorspann aus dem Heft**
+![Aufmacherbild aus dem Heft](./doc/diyWerkzeuge_quer.jpg)
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+Hier findet ihr die 3D-Druckdaten für den Edison-Rahmen aus dem Artikel.
 
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
-
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
-
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/26](https://www.heise.de/select/make/2026/6)**.
